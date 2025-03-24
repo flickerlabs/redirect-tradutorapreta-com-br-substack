@@ -1,1 +1,2 @@
-# redirect-tradutorapreta-com-br-substack
+# Redirect tradutorapreta.com.br to Substack
+Redirect.
